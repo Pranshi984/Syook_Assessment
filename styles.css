@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #dataContainer {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  p {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #f9f9f9;
+  }
+  
+  #successRate {
+    font-weight: bold;
+  }
+  
